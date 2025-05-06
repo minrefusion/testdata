@@ -1,0 +1,188 @@
+[
+    {
+        "navn": "Mikkel Hansen", 
+        "foerste_fravaersdag": "2025-05-15",
+        "arbejdstider": [
+            {"dato": "2025-02-25", "timer": 7.0},
+            {"dato": "2025-03-10", "timer": 7.5},
+            {"dato": "2025-03-20", "timer": 8.0},
+            {"dato": "2025-03-21", "timer": 8.0},
+            {"dato": "2025-03-24", "timer": 8.0},
+            {"dato": "2025-04-01", "timer": 8.0},
+            {"dato": "2025-04-02", "timer": 8.0},
+            {"dato": "2025-04-15", "timer": 8.0},
+            {"dato": "2025-04-16", "timer": 8.0},
+            {"dato": "2025-05-01", "timer": 8.0},
+            {"dato": "2025-05-02", "timer": 8.0},
+            {"dato": "2025-05-12", "timer": 8.0}
+        ]
+    },
+    {
+        "navn": "Ida Larsen",
+        "foerste_fravaersdag": "2025-05-15",
+        "arbejdstider": [
+            {"dato": "2025-02-20", "timer": 7.0},
+            {"dato": "2025-02-21", "timer": 7.0},
+            {"dato": "2025-02-24", "timer": 7.0},
+            {"dato": "2025-02-25", "timer": 7.0},
+            {"dato": "2025-02-26", "timer": 7.0},
+            {"dato": "2025-02-27", "timer": 7.0},
+            {"dato": "2025-02-28", "timer": 7.0},
+            {"dato": "2025-03-03", "timer": 7.0},
+            {"dato": "2025-03-04", "timer": 7.0},
+            {"dato": "2025-03-05", "timer": 7.0}
+        ]
+    },
+    {
+        "navn": "Sophie Jensen",
+        "foerste_fravaersdag": "2025-05-15",
+        "arbejdstider": [
+            {"dato": "2025-03-20", "timer": 5.0},
+            {"dato": "2025-03-21", "timer": 5.0},
+            {"dato": "2025-03-24", "timer": 5.0},
+            {"dato": "2025-03-25", "timer": 5.0},
+            {"dato": "2025-03-26", "timer": 5.0},
+            {"dato": "2025-03-27", "timer": 5.0},
+            {"dato": "2025-03-28", "timer": 5.0},
+            {"dato": "2025-04-01", "timer": 5.0},
+            {"dato": "2025-04-02", "timer": 5.0},
+            {"dato": "2025-04-03", "timer": 5.0},
+            {"dato": "2025-04-04", "timer": 5.0},
+            {"dato": "2025-04-07", "timer": 5.0},
+            {"dato": "2025-04-08", "timer": 5.0},
+            {"dato": "2025-04-09", "timer": 5.0},
+            {"dato": "2025-04-10", "timer": 5.0}
+        ]
+    },
+    {
+        "navn": "Mathias Sørensen",
+        "foerste_fravaersdag": "2025-05-15",
+        "arbejdstider": [
+            {"dato": "2025-03-18", "timer": 8.0},
+            {"dato": "2025-03-25", "timer": 7.0},
+            {"dato": "2025-03-26", "timer": 8.0},
+            {"dato": "2025-04-01", "timer": 7.0},
+            {"dato": "2025-04-02", "timer": 8.0},
+            {"dato": "2025-04-08", "timer": 7.0},
+            {"dato": "2025-04-15", "timer": 7.0},
+            {"dato": "2025-04-22", "timer": 7.0},
+            {"dato": "2025-04-29", "timer": 7.0},
+            {"dato": "2025-05-06", "timer": 7.0},
+            {"dato": "2025-05-13", "timer": 7.0},
+            {"dato": "2025-05-14", "timer": 8.0}
+        ]
+    },
+    {
+        "navn": "David Andersen",
+        "foerste_fravaersdag": "2025-06-01",
+        "arbejdstider": [
+            {"dato": "2025-03-20", "timer": 8.0},
+            {"dato": "2025-04-03", "timer": 7.5},
+            {"dato": "2025-04-04", "timer": 7.5},
+            {"dato": "2025-04-07", "timer": 7.5},
+            {"dato": "2025-04-08", "timer": 7.5},
+            {"dato": "2025-04-09", "timer": 7.5},
+            {"dato": "2025-04-10", "timer": 7.5},
+            {"dato": "2025-04-11", "timer": 7.5},
+            {"dato": "2025-04-14", "timer": 7.5},
+            {"dato": "2025-04-15", "timer": 7.5},
+            {"dato": "2025-04-16", "timer": 7.5}
+        ]
+    },
+    {
+        "navn": "Nanna Møller",
+        "foerste_fravaersdag": "2025-05-15",
+        "arbejdstider": [
+            {"dato": "2025-03-05", "timer": 6.0},
+            {"dato": "2025-03-12", "timer": 6.0},
+            {"dato": "2025-03-20", "timer": 6.0},
+            {"dato": "2025-03-25", "timer": 6.0},
+            {"dato": "2025-04-01", "timer": 6.0},
+            {"dato": "2025-04-08", "timer": 6.0},
+            {"dato": "2025-04-15", "timer": 6.0},
+            {"dato": "2025-04-22", "timer": 6.0},
+            {"dato": "2025-04-29", "timer": 6.0},
+            {"dato": "2025-05-06", "timer": 6.0},
+            {"dato": "2025-05-13", "timer": 6.0},
+            {"dato": "2025-05-14", "timer": 6.0},
+            {"dato": "2025-04-03", "timer": 6.0},
+            {"dato": "2025-04-10", "timer": 6.0},
+            {"dato": "2025-04-17", "timer": 6.0}
+        ]
+    },
+    {
+        "navn": "Oliver Thomsen",
+        "foerste_fravaersdag": "2025-05-15",
+        "arbejdstider": [
+            {"dato": "2025-03-20", "timer": 7.5},
+            {"dato": "2025-03-27", "timer": 7.5},
+            {"dato": "2025-04-03", "timer": 7.5},
+            {"dato": "2025-04-10", "timer": 7.5},
+            {"dato": "2025-04-17", "timer": 7.5},
+            {"dato": "2025-04-24", "timer": 7.5},
+            {"dato": "2025-05-01", "timer": 7.5},
+            {"dato": "2025-05-08", "timer": 7.5},
+            {"dato": "2025-05-13", "timer": 7.5},
+            {"dato": "2025-05-14", "timer": 7.5}
+        ]
+    },
+    {
+        "navn": "Lukas Mortensen",
+        "foerste_fravaersdag": "2025-05-15",
+        "arbejdstider": [
+            {"dato": "2025-03-01", "timer": 8.0},
+            {"dato": "2025-03-08", "timer": 8.0},
+            {"dato": "2025-03-22", "timer": 8.0},
+            {"dato": "2025-03-29", "timer": 8.0},
+            {"dato": "2025-04-05", "timer": 8.0},
+            {"dato": "2025-04-12", "timer": 8.0},
+            {"dato": "2025-04-19", "timer": 8.0},
+            {"dato": "2025-04-26", "timer": 8.0},
+            {"dato": "2025-05-03", "timer": 8.0}
+        ]
+    },
+    {
+        "navn": "Sofia Kristensen",
+        "foerste_fravaersdag": "2025-06-01",
+        "arbejdstider": [
+            {"dato": "2025-03-15", "timer": 4.0},
+            {"dato": "2025-04-03", "timer": 4.0},
+            {"dato": "2025-04-04", "timer": 4.0},
+            {"dato": "2025-04-07", "timer": 4.0},
+            {"dato": "2025-04-08", "timer": 4.0},
+            {"dato": "2025-04-09", "timer": 4.0},
+            {"dato": "2025-04-10", "timer": 4.0},
+            {"dato": "2025-04-11", "timer": 4.0},
+            {"dato": "2025-04-14", "timer": 4.0},
+            {"dato": "2025-04-15", "timer": 4.0},
+            {"dato": "2025-04-16", "timer": 4.0},
+            {"dato": "2025-04-17", "timer": 4.0},
+            {"dato": "2025-04-18", "timer": 4.0},
+            {"dato": "2025-04-21", "timer": 4.0},
+            {"dato": "2025-04-22", "timer": 4.0},
+            {"dato": "2025-04-23", "timer": 4.0},
+            {"dato": "2025-04-24", "timer": 4.0},
+            {"dato": "2025-04-25", "timer": 4.0},
+            {"dato": "2025-04-28", "timer": 4.0},
+            {"dato": "2025-04-29", "timer": 4.0}
+        ]
+    },
+    {
+        "navn": "Maja Olesen",
+        "foerste_fravaersdag": "2025-05-15",
+        "arbejdstider": [
+            {"dato": "2025-03-19", "timer": 7.0},
+            {"dato": "2025-03-20", "timer": 7.0},
+            {"dato": "2025-03-21", "timer": 8.0},
+            {"dato": "2025-03-24", "timer": 7.0},
+            {"dato": "2025-03-25", "timer": 8.0},
+            {"dato": "2025-03-26", "timer": 7.0},
+            {"dato": "2025-03-27", "timer": 8.0},
+            {"dato": "2025-03-28", "timer": 7.0},
+            {"dato": "2025-04-01", "timer": 8.0},
+            {"dato": "2025-04-02", "timer": 7.0},
+            {"dato": "2025-04-03", "timer": 8.0},
+            {"dato": "2025-04-04", "timer": 7.0}
+        ]
+    }
+]
