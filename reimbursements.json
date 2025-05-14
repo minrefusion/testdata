@@ -6,7 +6,7 @@
         "valuta": "DKK",
         "beskrivelse": "Kaffe på farten til morgenmøde",
         "kategori": "Transport",
-        "dato_udgift": "2024-03-15"
+        "dato_udgift": "2025-03-15"
     },
     {
         "id": "REF002",
@@ -15,7 +15,7 @@
         "valuta": "DKK",
         "beskrivelse": "Tankning",
         "kategori": "Transport",
-        "dato_udgift": "2024-03-20"
+        "dato_udgift": "2025-03-20"
     },
     {
         "id": "REF003",
@@ -24,7 +24,7 @@
         "valuta": "DKK",
         "beskrivelse": "Frimærke",
         "kategori": "Kontorartikler",
-        "dato_udgift": "2024-04-02"
+        "dato_udgift": "2025-04-02"
     },
     {
         "id": "REF004",
@@ -33,7 +33,7 @@
         "valuta": "DKK",
         "beskrivelse": "Motorolie",
         "kategori": "Transport",
-        "dato_udgift": "2023-12-31"
+        "dato_udgift": "2024-12-31"
     },
     {
         "id": "REF005",
@@ -42,7 +42,7 @@
         "valuta": "DKK",
         "beskrivelse": "Togbillet til kundemøde",
         "kategori": "Transport",
-        "dato_udgift": "2024-03-28"
+        "dato_udgift": "2025-03-28"
     },
     {
         "id": "REF006",
@@ -51,7 +51,7 @@
         "valuta": "USD",
         "beskrivelse": "SnagIt",
         "kategori": "Software",
-        "dato_udgift": "2024-03-15"
+        "dato_udgift": "2025-03-15"
     },
     {
         "id": "REF007",
@@ -59,7 +59,7 @@
         "beloeb": 200.0,
         "valuta": "DKK",
         "kategori": "Software",
-        "dato_udgift": "2024-03-25"
+        "dato_udgift": "2025-03-25"
     },
     {
         "id": "REF008",
@@ -68,7 +68,7 @@
         "valuta": "DKK",
         "beskrivelse": "Printerpatroner",
         "kategori": "Kontorartikler",
-        "dato_udgift": "2024-03-05"
+        "dato_udgift": "2025-03-05"
     },
     {
         "id": "REF009",
@@ -77,7 +77,7 @@
         "valuta": "DKK",
         "beskrivelse": "P-bøde",
         "kategori": "Transport",
-        "dato_udgift": "2024-03-20"
+        "dato_udgift": "2025-03-20"
     },
     {
         "id": "REF010",
@@ -86,7 +86,7 @@
         "valuta": "DKK",
         "beskrivelse": "Kundemiddag",
         "kategori": "Repraesentation",
-        "dato_udgift": "2024-03-29"
+        "dato_udgift": "2025-03-29"
     },
     {
         "id": "REF011",
@@ -95,7 +95,7 @@
         "valuta": "DKK",
         "beskrivelse": "Kundemiddag",
         "kategori": "Repraesentation",
-        "dato_udgift": "2024-03-10"
+        "dato_udgift": "2025-03-10"
     },
     {
         "id": "REF012",
@@ -104,7 +104,7 @@
         "valuta": "DKK",
         "beskrivelse": "Indkøb af printerpapir og kuglepenne",
         "kategori": "Kontorartikler",
-        "dato_udgift": "2024-02-15"
+        "dato_udgift": "2025-02-15"
     },
     {
         "id": "REF013",
@@ -113,7 +113,7 @@
         "valuta": "DKK",
         "beskrivelse": "Middag med potentielle kunder",
         "kategori": "Repraesentation",
-        "dato_udgift": "2024-03-12"
+        "dato_udgift": "2025-03-12"
     },
     {
         "id": "REF014",
@@ -122,7 +122,7 @@
         "valuta": "EUR",
         "beskrivelse": "Blomster til reception",
         "kategori": "Repraesentation",
-        "dato_udgift": "2023-10-01"
+        "dato_udgift": "2024-10-01"
     },
     {
         "id": "REF015",
@@ -131,6 +131,6 @@
         "valuta": "DKK",
         "beskrivelse": "Årlig licens til projektstyringsværktøj",
         "kategori": "Software",
-        "dato_udgift": "2024-03-01"
+        "dato_udgift": "2025-03-01"
     }
 ]
